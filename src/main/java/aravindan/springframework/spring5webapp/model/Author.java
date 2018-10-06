@@ -8,7 +8,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToMany;
-
+//Author.java
+//author: Aravindan Venkataraju
 @Entity
 public class Author {
 	@Id
